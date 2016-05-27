@@ -5,7 +5,7 @@ import junio2013.IBaseDeDatosDeAnunciantes;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
-
+import static org.mockito.Mockito.*;
 
 public class TablonDeAnunciosTest {
 	
