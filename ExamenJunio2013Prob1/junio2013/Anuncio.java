@@ -17,4 +17,8 @@ public class Anuncio {
     texto_ = texto;
     anunciante_ = anunciante;
   }
+  public publicAnuncio((Anuncio, IBaseDeDatosDeAnunciantes, IBaseDeDatosDePagos)
+		  Anuncio_=anuncio;
+  IBaseDeDatosDeAnunciantes=IBaseDeDatosDeAnunciantes;
+  IBaseDeDatosDePagos=IBaseDeDatosDePagos;
 }
